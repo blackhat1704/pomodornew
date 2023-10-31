@@ -1,3 +1,3 @@
 # pomodornew
 my first GitHub repo
-GitHub is amazing
+GitHub is amazing 
