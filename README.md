@@ -1,2 +1,3 @@
 # pomodornew
-my first github repo
+my first GitHub repo
+GitHub is amazing
